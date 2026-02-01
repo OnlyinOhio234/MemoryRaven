@@ -37,11 +37,11 @@ class JSONLVectorStore(VectorStore):
         os.makedirs(self.base_dir, exist_ok=True)
         path = os.path.join(self.base_dir, f"{namespace}__{model_name}.jsonl")
         with open(path, "a", encoding="utf-8") as f:
-            for i, _id in enumerate(ids):
+            for i, document_id in enumerate(ids):
                 f.write(
                     json.dumps(
                         {
-                            "id": _id,
+                            "id": document_id,
                             "vector": vectors[i],
                             "metadata": metadatas[i],
                             "document": documents[i],
