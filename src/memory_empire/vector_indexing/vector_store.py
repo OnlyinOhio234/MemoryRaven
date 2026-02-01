@@ -7,6 +7,8 @@ from typing import Any, Optional
 
 
 class VectorStore:
+    """Abstract base class for vector storage implementations."""
+    
     def upsert(
         self,
         *,
