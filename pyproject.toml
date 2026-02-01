@@ -7,7 +7,7 @@ name = "memory-empire"
 version = "0.1.0"
 description = "The Memory Empire Framework - Persistent memory infrastructure for AI agents"
 readme = "README.md"
-authors = [{name = "Raven", email = "ravenbadbihh@gmail.com"}]
+authors = [{name = "Raven"}]
 license = {file = "LICENSE"}
 classifiers = [
     "Development Status :: 4 - Beta",

@@ -189,6 +189,6 @@ Contributors will be recognized in:
 Feel free to:
 - Open an issue for questions
 - Ask in Discord
-- Email ravenbadbihh@gmail.com
+- Twitter @memoryraven
 
 Thank you for making Memory Empire better! 🧠⚡
