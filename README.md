@@ -5,8 +5,6 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Discord](https://img.shields.io/discord/XXX?color=7289da&logo=discord&logoColor=white)](https://discord.gg/XXX)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MemoryRaven?style=social)](https://twitter.com/MemoryRaven)
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram)](https://t.me/RavenBadBihh_Bot)
-
 **MemoryRaven** is the revolutionary memory layer for AI agents — persistent, semantic, and scalable memory infrastructure that survives restarts and enables true long-term learning. Powered by the $RAVEN token ecosystem.
 
 > **"Every memory becomes power. Every power becomes value."** 🌙
@@ -235,7 +233,6 @@ docker-compose up -d
 
 ### Connect With Ravens
 - 🌐 **Website**: [memoryraven.ai](https://memoryraven.ai)
-- 💬 **Telegram**: [@MemoryRavenOfficial](https://t.me/RavenBadBihh_Bot)
 - 🐦 **Twitter**: [@memoryraven](https://x.com/memoryraven)
 - 💎 **Discord**: [Join the Conspiracy](https://discord.gg/memoryraven)
 
