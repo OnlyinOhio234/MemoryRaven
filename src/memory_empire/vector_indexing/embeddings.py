@@ -36,6 +36,7 @@ class StubEmbedder:
         for t in texts:
             # Simple hashing into a fixed vector.
             v = [0.0] * self.dim
+            # Create a simple hash by distributing character values across vector dimensions
             for i, ch in enumerate(t.encode("utf-8")):
                 v[(i + ch) % self.dim] += 1.0
             # L2 normalize.
