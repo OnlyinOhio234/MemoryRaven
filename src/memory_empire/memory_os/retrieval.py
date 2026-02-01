@@ -38,6 +38,7 @@ class SearchResult:
 
 
 class MemoryRetrieval:
+    """Handles memory search and retrieval across storage tiers."""
     """Advanced retrieval capabilities for the memory system"""
 
     def __init__(self, memory_bridge):
