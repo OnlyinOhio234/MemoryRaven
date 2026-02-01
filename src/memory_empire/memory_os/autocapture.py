@@ -34,7 +34,7 @@ class AutoCapture:
         direction: str,  # 'inbound' or 'outbound'
         channel: str,
         text: str,
-        metadata: dict = None,
+        metadata: dict[str, Any] | None = None,
     ) -> str | None:
         """Capture a message event"""
         return self.memory.capture_message(
